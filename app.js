@@ -4,7 +4,7 @@ var in_display = false
 
 function showSidebar() {
     if (in_display){
-        sidebar.style.right = '-250px'
+        sidebar.style.right = '-1000px'
         in_display = false
     }
     else{
